@@ -1,3 +1,4 @@
+# Checks the upstream main branch every six hours.
 name: Sync upstream
 on:
   schedule:
